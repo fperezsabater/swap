@@ -1,8 +1,0 @@
-FPS
-VPN
-U: x166382
-P: 1234 + token
-
-AD:
-U: aralem01\x166382
-P: Pr......1
